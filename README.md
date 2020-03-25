@@ -1,6 +1,7 @@
 # ʕ •́؈•̀) GitHub star counter using cloudflare worker
 
-GitHub star counter on cloudflare worker. Just a copy of https://github.com/idealclover/GitHub-Star-Counter
+~~GitHub star counter on cloudflare worker. Just a copy of https://github.com/idealclover/GitHub-Star-Counter~~
+Merged to https://github.com/idealclover/GitHub-Star-Counter
 
 ## 🔋 Getting Started
 
